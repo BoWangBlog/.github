@@ -4,8 +4,6 @@
 
 <h3 align="center">I am a passionate frontend developer from China</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bowang816&label=Profile%20views&color=0e75b6&style=flat" alt="bowang816" /> </p>
-
 - 📝 I regulary write articles on [恪晨的小站](https://blog.wangboweb.site)、[掘金](https://juejin.cn/user/2049145403882430)、[知乎](https://www.zhihu.com/people/ke-chen-6-83)
 
 - 📫 How to reach me **bo.wang1016@outlook.com**
