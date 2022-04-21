@@ -11,11 +11,6 @@
 - 🌱 Learning all about:
   ![Nest.JS](https://img.shields.io/badge/-Nest.JS-black?style=plastic&logo=Nest.js) 
   ![Vite](https://img.shields.io/badge/-Vite-c7b198?style=plastic&logo=Vite)
-  
-<div style="display: inline">
-  <img src="https://github-readme-stats.vercel.app/api?username=bowang816&show_icons=true&theme=tokyonight" height="150" align="center"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bowang816&layout=compact&theme=dracula" height="150" align="center"/>
-</div>
 
 <img src="https://github.com/BoWang816/Weekly/blob/output/github-snake.svg" height="160" align="center"/>
 
