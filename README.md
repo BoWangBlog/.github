@@ -1,2 +1,0 @@
-# .github
-BoWangBlog organization profile
